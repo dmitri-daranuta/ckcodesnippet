@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * Implements hook_page_attachments_alter().
+ */
+function ckcodesnippet_page_attachments_alter(&$page) {
+  $page['#attached']['library'][] = 'ckcodesnippet/ckcodesnippet';
+}

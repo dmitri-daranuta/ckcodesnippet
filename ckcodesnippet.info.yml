@@ -1,0 +1,8 @@
+name: CKEditor Code Snippet
+type: module
+description: This plugin lets you insert rich code snippets with syntax highlighting into the editor.
+core: 8.x
+package: CKEditor
+version: 8.x-1.0
+dependencies:
+  - ckeditor

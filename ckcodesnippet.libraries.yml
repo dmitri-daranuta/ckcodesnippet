@@ -1,0 +1,12 @@
+ckcodesnippet:
+  version: 0
+  js:
+    js/plugins/codesnippet/lib/highlight/highlight.pack.js: {}
+    js/codesnippet.js: {}
+  css:
+    theme:
+      js/plugins/codesnippet/lib/highlight/styles/school_book.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettingscss
