@@ -10,3 +10,7 @@ ckcodesnippet:
     - core/jquery
     - core/drupal
     - core/drupalSettingscss
+ckeditor_config:
+  version: 0
+  js:
+    js/ckeditor_config.js: {}
