@@ -5,7 +5,7 @@ ckcodesnippet:
     js/codesnippet.js: {}
   css:
     theme:
-      js/plugins/codesnippet/lib/highlight/styles/school_book.css: {}
+      js/plugins/codesnippet/lib/highlight/styles/default.css: {}
   dependencies:
     - core/jquery
     - core/drupal
