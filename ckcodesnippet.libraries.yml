@@ -2,6 +2,7 @@ ckcodesnippet:
   version: 0
   js:
     js/plugins/codesnippet/lib/highlight/highlight.pack.js: {}
+    js/highlightjs-line-numbers.js: {}
     js/codesnippet.js: {}
   css:
     theme:
