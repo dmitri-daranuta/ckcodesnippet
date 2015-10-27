@@ -1,5 +1,6 @@
 CKEDITOR.config.codeSnippet_languages = {
   javascript: 'JavaScript',
+  json: 'JSON',
   java: 'Java',
   objectivec: 'Objective C',
   swift: 'Swift',
