@@ -33,7 +33,9 @@ class CodeSnippet extends PluginBase implements CKEditorPluginInterface, CKEdito
    * Implements \Drupal\ckeditor\Plugin\CKEditorPluginInterface::getLibraries().
    */
   function getLibraries(Editor $editor) {
-    return array();
+    return array(
+      'ckcodesnippet/ckeditor_config',
+    );
   }
 
   /**
