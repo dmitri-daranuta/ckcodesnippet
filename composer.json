@@ -1,0 +1,6 @@
+{
+    "name": "dmitri-daranuta/ckcodesnippet",
+    "description": "CKEditor Code Snippet.",
+    "license": "GPL-2.0+",
+    "type": "module"
+}
